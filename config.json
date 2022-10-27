@@ -1,0 +1,15 @@
+{
+  "source": ["./tmp/**/*.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "buildPath": "./src/styles/common/",
+      "files": [
+        {
+          "destination": "_variables.scss",
+          "format": "scss/variables"
+        }
+      ]
+    }
+  }
+}
