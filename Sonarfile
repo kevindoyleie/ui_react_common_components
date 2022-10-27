@@ -1,0 +1,6 @@
+sonar.projectKey=ui_react_common-components:master
+sonar.projectName=ui_react_common-components
+sonar.projectVersion=0.1
+sonar.scm.provider=git
+sonar.sources=src
+sonar.java.binaries=build
