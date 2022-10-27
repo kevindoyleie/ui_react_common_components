@@ -1,6 +1,6 @@
 ## React Common Components Library
 
-#### This branch will accommodate Vhi web shared components.
+#### This branch will accommodate web shared components.
 #### Storybook has been implemented to live re-build and display components in a web browser. (see https://github.com/storybookjs/storybook)
 #### Rollup has been applied to the build to enable development of components using SASS. (see https://github.com/thgh/rollup-plugin-scss)
 
